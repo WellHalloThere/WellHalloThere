@@ -1,51 +1,24 @@
-# 📟 [SYS_READY] :: WellHalloThere
+# 💫 About Me:
+Hallo! , traveler of the digital void!<br><br>I’m Rishi—a high schooler plotting my rise to software engineering greatness. <br>Right now, I mostly break code, question reality, and pretend I know what I’m doing (spoiler: I don’t).<br><br><br>Philosophy: Every bug is just a feature with commitment issues.<br><br>Current Status: Writing code, summoning errors, and resisting the urge to sell my soul to Stack Overflow. And also learning Python and full-stack development.(slowly but surely)
 
-![Banner](https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=ACCESS_GRANTED&fontSize=50&fontAlignY=55&animation=twinkling&fontColor=00FF41)
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/well.hallo.there) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29482042) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jauharirishi15.3@gmail.com) 
 
-### 🟢 CURRENT_MISSION: RISE TO SOFTWARE GREATNESS
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=WellHalloThere&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WellHalloThere&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WellHalloThere&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-**[CMD]:** Hallo! , traveler of the digital void!
-**[INTEL]:** I’m Rishi—a high schooler mostly breaking code, questioning reality, and pretending I know what I’m doing (spoiler: I don’t).
-**[LOGIC]:** Every bug is just a feature with commitment issues.
-**[STATUS]:** Writing code, summoning errors, and resisting the urge to sell my soul to Stack Overflow. 
-**[TASK]:** Learning Python and full-stack development (slowly but surely).
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=WellHalloThere&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-### 🛠️ TECH_STACK :: CORE_LOADED
-
-![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=00FF41) ![CSS3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=00FF41) ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00FF41) ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41) ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
-
----
-
-### 📊 ANALYTICS_STREAM
-
-![](https://github-readme-stats.vercel.app/api?username=WellHalloThere&show_icons=true&theme=tokyonight&bg_color=000000&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=WellHalloThere&theme=tokyonight&background=000000&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WellHalloThere&layout=compact&theme=tokyonight&bg_color=000000&text_color=00FF41&icon_color=00FF41&border_color=00FF41&hide_border=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=WellHalloThere&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=WellHalloThere&icon=0&color=13)](https://visitcount.itsvg.in)
 
-### 🏆 ACHIEVEMENTS
-
-![](https://github-profile-trophy.vercel.app/?username=WellHalloThere&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=A,S,SSS)
-
----
-
-### 📡 FREQUENCIES
-
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/well.hallo.there)
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=00FF41)](https://stackoverflow.com/users/29482042)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:jauharirishi15.3@gmail.com)
-
----
-
-### 🎮 CONTRIBUTION_SNAKE
-
-![Snake](https://raw.githubusercontent.com/WellHalloThere/WellHalloThere/output/github-contribution-grid-snake.svg)
-
-![](https://visitcount.itsvg.in/api?id=WellHalloThere&icon=0&color=00FF41)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
